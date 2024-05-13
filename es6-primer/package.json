@@ -1,0 +1,19 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-osujicsc101/csc202-set2022.git"
+  },
+  "author": "Nneoma Osuji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N-osujicsc101/csc202-set2022/issues"
+  },
+  "homepage": "https://github.com/N-osujicsc101/csc202-set2022#readme",
+  "description": ""
+}
